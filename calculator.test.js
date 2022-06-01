@@ -13,7 +13,7 @@ const {
 
 // Sum Tests
 
-// let us group our functions using the describe keyword, arguments are functions to be grouped 
+// let us group our tests using the describe keyword, arguments are functions to be grouped 
 describe('sum', () => { 
   
   test('can add two small positive numbers', () => {
